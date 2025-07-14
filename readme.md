@@ -18,3 +18,5 @@ Bu proje, Laravel ile geliştirilmiş bir basit sosyal medya uygulamasıdır. Ku
 - MySQL
 - Bootstrap 5
 - Blade Template Engine
+
+<img width="936" height="831" alt="image" src="https://github.com/user-attachments/assets/29e83123-0867-463f-a4cd-1f7a312072e2" />
